@@ -1,0 +1,67 @@
+{
+  "extra_raw": {
+    "mae_co_mean": 86.04452018737793,
+    "mae_eth_mean": 3.0631480515003204,
+    "transition_mae_co_mean": 90.41179046630859,
+    "transition_mae_eth_mean": 2.9685821294784547,
+    "transition_improve_pct_vs_raw_mean": -52.296803940615725,
+    "transition_improve_pct_vs_raw_std": 56.14944625213678,
+    "picp_drop_max_vs_raw_mean": 0.12011111111111113,
+    "full_noninferior_rate": 0.1,
+    "transition_ge_2pct_rate": 0.2,
+    "picp_ok_rate": 0.3,
+    "all_gate_rate": 0.0
+  },
+  "rf_temporal": {
+    "mae_co_mean": 115.75857772827149,
+    "mae_eth_mean": 3.2234245240688324,
+    "transition_mae_co_mean": 124.09210414886475,
+    "transition_mae_eth_mean": 3.211056184768677,
+    "transition_improve_pct_vs_raw_mean": -103.9491593714409,
+    "transition_improve_pct_vs_raw_std": 102.5017201283844,
+    "picp_drop_max_vs_raw_mean": 0.11405555555555554,
+    "full_noninferior_rate": 0.1,
+    "transition_ge_2pct_rate": 0.1,
+    "picp_ok_rate": 0.4,
+    "all_gate_rate": 0.0
+  },
+  "extra_temporal": {
+    "mae_co_mean": 86.50054244995117,
+    "mae_eth_mean": 3.1139865636825563,
+    "transition_mae_co_mean": 92.29152507781983,
+    "transition_mae_eth_mean": 3.052487474679947,
+    "transition_improve_pct_vs_raw_mean": -54.432889571291334,
+    "transition_improve_pct_vs_raw_std": 59.730103978550304,
+    "picp_drop_max_vs_raw_mean": 0.11988888888888889,
+    "full_noninferior_rate": 0.1,
+    "transition_ge_2pct_rate": 0.2,
+    "picp_ok_rate": 0.3,
+    "all_gate_rate": 0.0
+  },
+  "hgb_temporal_l2": {
+    "mae_co_mean": 126.91147994995117,
+    "mae_eth_mean": 3.658251869678497,
+    "transition_mae_co_mean": 134.82923126220703,
+    "transition_mae_eth_mean": 3.5236193597316743,
+    "transition_improve_pct_vs_raw_mean": -119.62229588263236,
+    "transition_improve_pct_vs_raw_std": 94.80723841429854,
+    "picp_drop_max_vs_raw_mean": 0.183,
+    "full_noninferior_rate": 0.0,
+    "transition_ge_2pct_rate": 0.0,
+    "picp_ok_rate": 0.2,
+    "all_gate_rate": 0.0
+  },
+  "hgb_temporal_l1": {
+    "mae_co_mean": 116.78817310333253,
+    "mae_eth_mean": 5.113224238157272,
+    "transition_mae_co_mean": 140.42809228897096,
+    "transition_mae_eth_mean": 5.199566292762756,
+    "transition_improve_pct_vs_raw_mean": -170.0880745243337,
+    "transition_improve_pct_vs_raw_std": 217.80357098277392,
+    "picp_drop_max_vs_raw_mean": 0.1444444444444444,
+    "full_noninferior_rate": 0.1,
+    "transition_ge_2pct_rate": 0.2,
+    "picp_ok_rate": 0.5,
+    "all_gate_rate": 0.1
+  }
+}

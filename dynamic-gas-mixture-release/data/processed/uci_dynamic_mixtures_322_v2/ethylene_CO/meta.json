@@ -1,0 +1,19 @@
+{
+  "source_file": "data\\raw\\uci_dynamic_mixtures_322\\extracted\\ethylene_CO.txt",
+  "downsample_every": 5,
+  "window_len": 100,
+  "stride": 10,
+  "shard_size": 5000,
+  "max_windows": 50000,
+  "generated_windows": 50000,
+  "generated_shards": 10,
+  "X_shape": [
+    "n",
+    100,
+    16
+  ],
+  "y_shape": [
+    "n",
+    2
+  ]
+}

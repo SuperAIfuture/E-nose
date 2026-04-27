@@ -1,0 +1,25 @@
+{
+  "dataset": "uci_dynamic_mixtures_322",
+  "processed_dir": "data/processed/uci_dynamic_mixtures_322_v2/ethylene_CO",
+  "split": {
+    "train_fraction": 0.6,
+    "calibration_fraction": 0.2,
+    "test_fraction": 0.2,
+    "mode": "contiguous"
+  },
+  "evaluation": {
+    "alpha": 0.1,
+    "max_windows_per_seed": 9000,
+    "main_seed_count": 10
+  },
+  "route_b_config": {
+    "expert_idx": 27,
+    "score_type": "diff_mean_abs",
+    "threshold_source": "train",
+    "gate_mode": "binary",
+    "quantile": 0.7,
+    "delta_clip_quantile": 1.0,
+    "g_co": 1.25,
+    "g_eth": 0.5
+  }
+}

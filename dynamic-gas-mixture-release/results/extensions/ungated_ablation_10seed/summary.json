@@ -1,0 +1,15 @@
+{
+  "mean_transition_improve_pct": -3.208347288294091,
+  "full_noninferior_rate": 0.8,
+  "picp_ok_rate": 1.0,
+  "all_gate_rate": 0.7,
+  "seeds_all_ok": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    8,
+    9
+  ]
+}

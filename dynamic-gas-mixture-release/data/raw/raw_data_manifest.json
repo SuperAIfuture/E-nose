@@ -1,0 +1,30 @@
+{
+  "dataset": "uci_dynamic_mixtures_322",
+  "source": "UCI Machine Learning Repository, Gas Sensor Array Under Dynamic Gas Mixtures",
+  "files": [
+    {
+      "file_name": "uci_322_dynamic_mixtures.zip",
+      "size_bytes": 369001314,
+      "size_mb": 351.91,
+      "sha256": "8b6323b801363e11343ba1a5a7718e76666b715e753b3a40dbdfd1838d953fe7",
+      "included_in_git_repo": false,
+      "note": "Omitted from the Git repository because the file exceeds standard GitHub size limits."
+    },
+    {
+      "file_name": "ethylene_CO.txt",
+      "size_bytes": 642945087,
+      "size_mb": 613.16,
+      "sha256": "eb979ebf40f22bb7206b4fdd335fad6da51ad0289d2a37fdb1fff2f6e425487e",
+      "included_in_git_repo": false,
+      "note": "Omitted from the Git repository because the file exceeds standard GitHub size limits."
+    },
+    {
+      "file_name": "ethylene_methane.txt",
+      "size_bytes": 638311247,
+      "size_mb": 608.74,
+      "sha256": "a00f383f2734850cf61370dc687cb09e9b400648549567a2f6a43e5c6a99aaf2",
+      "included_in_git_repo": false,
+      "note": "Omitted from the Git repository because the file exceeds standard GitHub size limits."
+    }
+  ]
+}

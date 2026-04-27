@@ -1,0 +1,57 @@
+{
+  "seed_lists": {
+    "main_evaluation": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "fixed_configuration_robustness_extension": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  "seed_window_selection": {
+    "type": "deterministic_contiguous_slice",
+    "offset_formula": "(seed * 9973) % (n_total_windows - n_windows_per_seed + 1)",
+    "n_windows_per_seed": 9000
+  },
+  "model_random_state_offsets": {
+    "random_forest_and_extra_trees": "1000 + seed",
+    "hist_gradient_boosting": "2000 + seed"
+  }
+}

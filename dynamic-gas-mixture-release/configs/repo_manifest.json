@@ -1,0 +1,25 @@
+{
+  "repository_name": "dynamic-gas-mixture-release",
+  "repository_type": "GitHub-ready research release",
+  "dataset": "uci_dynamic_mixtures_322",
+  "main_seed_count": 10,
+  "robustness_extension_seed_count": 30,
+  "included": [
+    "scripts",
+    "configs",
+    "data/processed",
+    "data/raw metadata",
+    "results/main",
+    "results/extensions",
+    "docs",
+    "requirements.txt",
+    "README.md",
+    ".gitignore"
+  ],
+  "excluded": [
+    "raw files larger than GitHub limits",
+    "review and provenance records",
+    "manuscript and response-letter materials",
+    "figure and layout generation intermediates"
+  ]
+}

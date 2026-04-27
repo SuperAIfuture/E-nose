@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the software release using the metadata below."
+title: "Transition-Aware Safety-Gated Learning for Dynamic Gas-Mixture Quantification in Electronic Noses"
+type: software
+version: 1.0.0
+date-released: 2026-04-10
+authors:
+  - family-names: Ai
+    given-names: Bin
+license: MIT
+keywords:
+  - electronic nose
+  - dynamic gas mixtures
+  - safety gating
+  - uncertainty calibration
+  - robust regression
+abstract: >
+  Public release of code, processed data, configuration files, deterministic
+  seed logic, and result artifacts for transition-aware safety-gated dynamic
+  gas-mixture quantification.

@@ -1,0 +1,11 @@
+seed,full_noninferior,transition_improve_pct,transition_ok,picp_drop_max,picp_ok,all_ok,fallback_raw
+1,True,2.011860,True,0.000000,True,True,False
+2,True,2.393444,True,0.001111,True,True,False
+3,True,10.761121,True,0.013889,True,True,True
+4,True,3.798033,True,0.002778,True,True,False
+5,True,0.922026,False,0.007778,True,False,False
+6,True,6.321449,True,0.000556,True,True,False
+7,True,0.000000,False,0.000000,True,False,True
+8,True,5.019055,True,0.017222,True,True,False
+9,True,3.274531,True,0.006111,True,True,False
+10,False,-0.028172,False,0.010000,True,False,True

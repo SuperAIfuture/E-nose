@@ -1,0 +1,271 @@
+{
+  "dataset": "uci_dynamic_mixtures_322",
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "n_total_windows": 50000,
+  "n_windows_per_seed": 9000,
+  "methods": {
+    "raw_svr": {
+      "mae_mean": [
+        57.094787788391116,
+        2.202842855453491
+      ],
+      "mae_std": [
+        39.74184251229991,
+        0.8544611235661094
+      ],
+      "rmse_mean": [
+        78.1427043914795,
+        3.4794198632240296
+      ],
+      "r2_mean": [
+        -6.4142665e+17,
+        -4.671845979974936
+      ],
+      "picp_mean": [
+        0.8125555555555556,
+        0.9165555555555557
+      ],
+      "mpiw_mean": [
+        165.77002906799316,
+        13.883352184295655
+      ],
+      "transition_mae_mean": [
+        63.45822620391846,
+        2.269811636209488
+      ],
+      "transition_mae_valid_seed_counts": [
+        10,
+        10
+      ],
+      "transition_mae_std": [
+        40.801600794072186,
+        1.144058489817341
+      ],
+      "steady_mae_mean": [
+        55.01136108636856,
+        2.376725137233734
+      ],
+      "steady_mae_valid_seed_counts": [
+        10,
+        10
+      ],
+      "steady_mae_std": [
+        42.64380706380026,
+        1.0099066129770533
+      ],
+      "cal_mae_mean": 26.60093653202057
+    },
+    "temporal_svr": {
+      "mae_mean": [
+        56.72072410583496,
+        2.2282581090927125
+      ],
+      "mae_std": [
+        39.72332094676168,
+        0.8745840807632043
+      ],
+      "rmse_mean": [
+        77.97159423828126,
+        3.493629050254822
+      ],
+      "r2_mean": [
+        -6.558608e+17,
+        -4.710973356524846
+      ],
+      "picp_mean": [
+        0.8148333333333333,
+        0.9175000000000001
+      ],
+      "mpiw_mean": [
+        164.7325647354126,
+        13.87298526763916
+      ],
+      "transition_mae_mean": [
+        63.095578002929685,
+        2.29704430103302
+      ],
+      "transition_mae_valid_seed_counts": [
+        10,
+        10
+      ],
+      "transition_mae_std": [
+        40.843071319247464,
+        1.1590877508067807
+      ],
+      "steady_mae_mean": [
+        54.73090567588806,
+        2.390428054332733
+      ],
+      "steady_mae_valid_seed_counts": [
+        10,
+        10
+      ],
+      "steady_mae_std": [
+        42.562263883557314,
+        1.0284495338647863
+      ],
+      "cal_mae_mean": 26.429219317436218,
+      "gate_checks": {
+        "full_mae_noninferior": true,
+        "transition_improve_pct": 0.510308153395753,
+        "transition_improve_ge_2pct": false,
+        "picp_drop_max_abs": -0.0009444444444444144,
+        "picp_drop_le_0p03": true
+      }
+    },
+    "route_b": {
+      "mae_mean": [
+        56.31056022644043,
+        2.198510837554932
+      ],
+      "mae_std": [
+        39.97851882509193,
+        0.8603380108304499
+      ],
+      "rmse_mean": [
+        77.64408836364746,
+        3.474609208106995
+      ],
+      "r2_mean": [
+        -6.4142665e+17,
+        -4.630283116849656
+      ],
+      "picp_mean": [
+        0.8085000000000001,
+        0.9157222222222223
+      ],
+      "mpiw_mean": [
+        164.83926305770873,
+        13.870109462738037
+      ],
+      "transition_mae_mean": [
+        61.711304664611816,
+        2.2740896582603454
+      ],
+      "transition_mae_valid_seed_counts": [
+        10,
+        10
+      ],
+      "transition_mae_std": [
+        41.42232119646572,
+        1.1582076148295999
+      ],
+      "steady_mae_mean": [
+        55.01136108636856,
+        2.376725137233734
+      ],
+      "steady_mae_valid_seed_counts": [
+        10,
+        10
+      ],
+      "steady_mae_std": [
+        42.64380706380026,
+        1.0099066129770533
+      ],
+      "cal_mae_mean": 26.4867160320282,
+      "gate_checks": {
+        "full_mae_noninferior": true,
+        "transition_improve_pct": 2.6512939903887043,
+        "transition_improve_ge_2pct": true,
+        "picp_drop_max_abs": 0.004055555555555479,
+        "picp_drop_le_0p03": true,
+        "lag_proxy_worsen_pct": 0.0,
+        "lag_proxy_worsen_le_5pct": true,
+        "seed_gate_pass_rate": 0.7
+      }
+    },
+    "route_c": {
+      "mae_mean": [
+        57.094787788391116,
+        2.202842855453491
+      ],
+      "mae_std": [
+        39.74184251229991,
+        0.8544611235661094
+      ],
+      "rmse_mean": [
+        78.1427043914795,
+        3.4794198632240296
+      ],
+      "r2_mean": [
+        -6.4142665e+17,
+        -4.671845979974936
+      ],
+      "picp_mean": [
+        0.8125555555555556,
+        0.9165555555555557
+      ],
+      "mpiw_mean": [
+        165.77002906799316,
+        13.883352184295655
+      ],
+      "transition_mae_mean": [
+        63.45822620391846,
+        2.269811636209488
+      ],
+      "transition_mae_valid_seed_counts": [
+        10,
+        10
+      ],
+      "transition_mae_std": [
+        40.801600794072186,
+        1.144058489817341
+      ],
+      "steady_mae_mean": [
+        55.01136108636856,
+        2.376725137233734
+      ],
+      "steady_mae_valid_seed_counts": [
+        10,
+        10
+      ],
+      "steady_mae_std": [
+        42.64380706380026,
+        1.0099066129770533
+      ],
+      "cal_mae_mean": 26.60093653202057,
+      "gate_checks": {
+        "full_mae_noninferior": true,
+        "transition_improve_pct": 0.0,
+        "transition_improve_ge_2pct": false,
+        "picp_drop_max_abs": 0.0,
+        "picp_drop_le_0p03": true
+      }
+    }
+  },
+  "route_b_selection": {
+    "best_cfg": {
+      "expert_idx": 27,
+      "score_type": "diff_mean_abs",
+      "threshold_source": "train",
+      "gate_mode": "binary",
+      "quantile": 0.7,
+      "delta_clip_quantile": 1.0,
+      "g_co": 1.25,
+      "g_eth": 0.5
+    },
+    "pass_rate_all_gates": 0.7,
+    "zero_transition_seed_count": 0,
+    "min_transition_count_test": 187,
+    "mean_transition_count_test": 728.6,
+    "transition_below_2_seed_count": 3,
+    "transition_negative_seed_count": 1,
+    "full_fail_seed_count": 1,
+    "max_transition_shortfall_to_2_pct": 2.0281719560658606,
+    "mean_transition_shortfall_to_2_pct": 0.5106146357505399,
+    "mean_transition_improve_pct": 3.4473345968280023,
+    "mean_full_mae_delta": -0.3942797899246216,
+    "fallback_rate": 0.3
+  }
+}
