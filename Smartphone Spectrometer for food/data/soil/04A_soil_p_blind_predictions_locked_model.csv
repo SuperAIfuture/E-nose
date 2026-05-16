@@ -1,0 +1,6 @@
+analysis_level,config_label,preprocessing,model_name,params_json,sample_id,actual_mg_kg,predicted_mg_kg,abs_error_mg_kg
+sample_mean_final_fit,sg_selected__Lasso__013,sg_selected,Lasso,"{""model__alpha"": 0.01}",16,9.40979702849134,9.093271308141498,0.3165257203498424
+sample_mean_final_fit,sg_selected__Lasso__013,sg_selected,Lasso,"{""model__alpha"": 0.01}",17,8.31758361842681,8.089157697491002,0.2284259209358072
+sample_mean_final_fit,sg_selected__Lasso__013,sg_selected,Lasso,"{""model__alpha"": 0.01}",18,7.22463022637714,7.071413757636528,0.1532164687406121
+sample_mean_final_fit,sg_selected__Lasso__013,sg_selected,Lasso,"{""model__alpha"": 0.01}",19,9.93314928748059,9.720439118771097,0.2127101687094938
+sample_mean_final_fit,sg_selected__Lasso__013,sg_selected,Lasso,"{""model__alpha"": 0.01}",20,8.76286777798394,8.66188611106424,0.1009816669197007

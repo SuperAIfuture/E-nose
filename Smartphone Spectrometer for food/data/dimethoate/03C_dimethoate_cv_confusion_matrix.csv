@@ -1,0 +1,10 @@
+source,actual_level,predicted_level,n
+standard_leave_one_concentration_out_cv,Low,Low,50
+standard_leave_one_concentration_out_cv,Low,Mid,0
+standard_leave_one_concentration_out_cv,Low,High,0
+standard_leave_one_concentration_out_cv,Mid,Low,0
+standard_leave_one_concentration_out_cv,Mid,Mid,40
+standard_leave_one_concentration_out_cv,Mid,High,0
+standard_leave_one_concentration_out_cv,High,Low,0
+standard_leave_one_concentration_out_cv,High,Mid,0
+standard_leave_one_concentration_out_cv,High,High,40

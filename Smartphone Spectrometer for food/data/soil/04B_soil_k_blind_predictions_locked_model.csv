@@ -1,0 +1,6 @@
+config_label,preprocessing,model_name,params_json,sample_id,actual_mg_kg,predicted_mg_kg,abs_error_mg_kg
+sg_selected__Lasso__014,sg_selected,Lasso,"{""model__alpha"": 0.1}",16,110.801098204536,110.07043676462344,0.7306614399125522
+sg_selected__Lasso__014,sg_selected,Lasso,"{""model__alpha"": 0.1}",17,138.796217134412,137.8985211175259,0.8976960168861012
+sg_selected__Lasso__014,sg_selected,Lasso,"{""model__alpha"": 0.1}",18,113.545522285013,111.64215868317538,1.9033636018376257
+sg_selected__Lasso__014,sg_selected,Lasso,"{""model__alpha"": 0.1}",19,99.2326575774192,98.58442838849628,0.6482291889229259
+sg_selected__Lasso__014,sg_selected,Lasso,"{""model__alpha"": 0.1}",20,110.8799245152,109.33672737945194,1.5431971357480592

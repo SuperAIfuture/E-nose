@@ -1,0 +1,9 @@
+route,evaluation_subset,actual_level,n_samples,rmse,mae,r2,smape_percent,mape_percent,bias_mg_L,median_abs_error_mg_L,max_abs_error_mg_L,availability_note
+full_all_concentration_regression,blind_random_concentrations_overall,All,10,9.028393323498038,6.918044548860442,0.8248762729785433,40.09019882502945,55.96563778684301,6.87690087057391,5.154786622491905,16.973371397327085,
+full_all_concentration_regression,blind_random_concentrations_by_actual_level,Low,0,,,,,,,,,blind set has no sample in this locked level
+full_all_concentration_regression,blind_random_concentrations_by_actual_level,Mid,5,3.809906027434133,3.339596121280566,-1.7005365465821272,57.33539221864289,84.99672384543689,3.339596121280566,3.87494300307457,5.810270454205828,
+full_all_concentration_regression,blind_random_concentrations_by_actual_level,High,5,12.186401768762138,10.496492976440315,0.446896133818663,22.845005431416,26.934551728249108,10.414205619867252,12.107946481441957,16.973371397327085,
+locked_classification_then_level_regression,blind_random_concentrations_overall,All,10,6.500150691922343,4.866863992517552,0.909224029771637,33.66007631944283,33.63502859437039,2.2728142717032944,3.3691038222694507,11.252078087639395,
+locked_classification_then_level_regression,blind_random_concentrations_by_actual_level,Low,0,,,,,,,,,blind set has no sample in this locked level
+locked_classification_then_level_regression,blind_random_concentrations_by_actual_level,Mid,5,2.282674148559105,1.8899472893201332,0.0305858105116213,47.00756645167424,46.89368548915657,-0.953958450785745,1.221104402387902,3.8540110032728583,
+locked_classification_then_level_regression,blind_random_concentrations_by_actual_level,High,5,8.904679487039216,7.843780695714971,0.7046803844808307,20.31258618721141,20.37637169958421,5.499586994192335,10.448835376344787,11.252078087639395,

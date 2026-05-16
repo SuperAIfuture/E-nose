@@ -1,0 +1,10 @@
+source,actual_level,predicted_level,n
+blind_evaluation_after_classifier_locking,Low,Low,0
+blind_evaluation_after_classifier_locking,Low,Mid,0
+blind_evaluation_after_classifier_locking,Low,High,0
+blind_evaluation_after_classifier_locking,Mid,Low,0
+blind_evaluation_after_classifier_locking,Mid,Mid,5
+blind_evaluation_after_classifier_locking,Mid,High,0
+blind_evaluation_after_classifier_locking,High,Low,0
+blind_evaluation_after_classifier_locking,High,Mid,0
+blind_evaluation_after_classifier_locking,High,High,5

@@ -1,0 +1,11 @@
+sample_id,actual_mg_L,concentration_label,actual_level,predicted_level,correct,prob_Low,prob_Mid,prob_High,locked_preprocessing,locked_model_name,locked_params_json
+blind_1.25,1.25,1.25,Mid,Mid,True,0.0255181180319049,0.9647566746572974,0.0097252073107975,sg_selected,SVC_RBF,"{""model__C"": 10.0, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+blind_2.5,2.5,2.5,Mid,Mid,True,0.0139290211606374,0.9748333604816664,0.0112376183576962,sg_selected,SVC_RBF,"{""model__C"": 10.0, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+blind_3.75,3.75,3.75,Mid,Mid,True,0.0074839054699563,0.9449784447256336,0.0475376498044097,sg_selected,SVC_RBF,"{""model__C"": 10.0, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+blind_6.25,6.25,6.25,Mid,Mid,True,0.054909250240648,0.7745535200151356,0.1705372297442163,sg_selected,SVC_RBF,"{""model__C"": 10.0, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+blind_7.5,7.5,7.5,Mid,Mid,True,0.0535335791374293,0.7750113124693376,0.171455108393233,sg_selected,SVC_RBF,"{""model__C"": 10.0, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+blind_17.5,17.5,17.5,High,High,True,0.0309667797393921,0.0449404739720437,0.924092746288564,sg_selected,SVC_RBF,"{""model__C"": 10.0, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+blind_30,30.0,30.0,High,High,True,0.0094755341486029,0.012512697614948,0.9780117682364488,sg_selected,SVC_RBF,"{""model__C"": 10.0, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+blind_37.5,37.5,37.5,High,High,True,0.0083751150257038,0.0056908149279696,0.9859340700463264,sg_selected,SVC_RBF,"{""model__C"": 10.0, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+blind_55,55.0,55.0,High,High,True,0.020089335425077,0.0072651537856392,0.9726455107892836,sg_selected,SVC_RBF,"{""model__C"": 10.0, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+blind_62.5,62.5,62.5,High,High,True,0.0303121479197595,0.0191875279466384,0.950500324133602,sg_selected,SVC_RBF,"{""model__C"": 10.0, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"

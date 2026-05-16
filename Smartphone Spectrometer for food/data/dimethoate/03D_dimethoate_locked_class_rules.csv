@@ -1,0 +1,4 @@
+class_label,standard_concentration_mg_L,continuous_label_rule_for_blind_or_predictions,n_standard_concentrations,n_standard_spectra,basis,regulatory_note
+Low,"0.1, 0.3, 0.5, 0.7, 1",value <= 1 mg/L,5,50,03C 当前锁定规则；本 03D 不重新选择边界。,当前等级为实验浓度设计和 03C 锁定分类规则，不是法规阈值。
+Mid,"3, 5, 7, 10",value > 1 mg/L and <= 10 mg/L,4,40,03C 当前锁定规则；本 03D 不重新选择边界。,当前等级为实验浓度设计和 03C 锁定分类规则，不是法规阈值。
+High,"25, 50, 75, 100",value > 10 mg/L,4,40,03C 当前锁定规则；本 03D 不重新选择边界。,当前等级为实验浓度设计和 03C 锁定分类规则，不是法规阈值。

@@ -1,0 +1,55 @@
+preprocessing,collector,phone,solution_cn,solution_en,state_cn,state_en,n_spectra,n_channels,pairwise_count,mean_pairwise_mse,centroid_mse,is_primary_mse_input
+raw_effective,朱正瀚,Redmi Turbo 3,红色溶液,red colored solution,不重装,fixed assembly,10,301,45,0.000427563393811,0.0001924035272149,False
+sg,朱正瀚,Redmi Turbo 3,红色溶液,red colored solution,不重装,fixed assembly,10,301,45,0.000426848017195,0.0001920816077377,False
+sg_snv,朱正瀚,Redmi Turbo 3,红色溶液,red colored solution,不重装,fixed assembly,10,301,45,0.0056632135326198,0.0025484460896789,True
+raw_effective,朱正瀚,Redmi Turbo 3,红色溶液,red colored solution,重装,reassembly,12,301,66,0.0058425535584322,0.0026778370476147,False
+sg,朱正瀚,Redmi Turbo 3,红色溶液,red colored solution,重装,reassembly,12,301,66,0.0058272391428141,0.0026708179404564,False
+sg_snv,朱正瀚,Redmi Turbo 3,红色溶液,red colored solution,重装,reassembly,12,301,66,0.2043350295070702,0.0936535551907405,True
+raw_effective,朱正瀚,Redmi Turbo 3,蓝色溶液,blue colored solution,不重装,fixed assembly,10,301,45,0.000618202927205,0.0002781913172422,False
+sg,朱正瀚,Redmi Turbo 3,蓝色溶液,blue colored solution,不重装,fixed assembly,10,301,45,0.0006161744219046,0.000277278489857,False
+sg_snv,朱正瀚,Redmi Turbo 3,蓝色溶液,blue colored solution,不重装,fixed assembly,10,301,45,0.0353733057031306,0.0159179875664087,True
+raw_effective,朱正瀚,Redmi Turbo 3,蓝色溶液,blue colored solution,重装,reassembly,12,301,66,0.0044683939709558,0.0020480139033547,False
+sg,朱正瀚,Redmi Turbo 3,蓝色溶液,blue colored solution,重装,reassembly,12,301,66,0.0044462474365916,0.0020378634084378,False
+sg_snv,朱正瀚,Redmi Turbo 3,蓝色溶液,blue colored solution,重装,reassembly,12,301,66,0.2394523933384857,0.1097490136134726,True
+raw_effective,朱正瀚,Redmi Turbo 3,黄色溶液,yellow colored solution,不重装,fixed assembly,10,301,45,0.001477928924985,0.0006650680162432,False
+sg,朱正瀚,Redmi Turbo 3,黄色溶液,yellow colored solution,不重装,fixed assembly,10,301,45,0.0014749308502685,0.0006637188826208,False
+sg_snv,朱正瀚,Redmi Turbo 3,黄色溶液,yellow colored solution,不重装,fixed assembly,10,301,45,0.033121021260386,0.0149044595671737,True
+raw_effective,朱正瀚,Redmi Turbo 3,黄色溶液,yellow colored solution,重装,reassembly,12,301,66,0.0073319418340921,0.0033604733406255,False
+sg,朱正瀚,Redmi Turbo 3,黄色溶液,yellow colored solution,重装,reassembly,12,301,66,0.0073076746033944,0.0033493508598891,False
+sg_snv,朱正瀚,Redmi Turbo 3,黄色溶液,yellow colored solution,重装,reassembly,12,301,66,0.2233661584132094,0.1023761559393876,True
+raw_effective,王浩洋,Huawei P60,红色溶液,red colored solution,不重装,fixed assembly,10,300,45,0.0027840786817429,0.0012528354067843,False
+sg,王浩洋,Huawei P60,红色溶液,red colored solution,不重装,fixed assembly,10,300,45,0.0027837156056823,0.001252672022557,False
+sg_snv,王浩洋,Huawei P60,红色溶液,red colored solution,不重装,fixed assembly,10,300,45,0.0149618333254525,0.0067328249964536,True
+raw_effective,王浩洋,Huawei P60,红色溶液,red colored solution,重装,reassembly,12,301,66,0.0272287580725352,0.012479847449912,False
+sg,王浩洋,Huawei P60,红色溶液,red colored solution,重装,reassembly,12,301,66,0.0272127766999503,0.0124725226541439,False
+sg_snv,王浩洋,Huawei P60,红色溶液,red colored solution,重装,reassembly,12,301,66,0.4981213913636552,0.2283056377083419,True
+raw_effective,王浩洋,Huawei P60,蓝色溶液,blue colored solution,不重装,fixed assembly,10,301,45,7.759234316875924e-05,3.4916554425941656e-05,False
+sg,王浩洋,Huawei P60,蓝色溶液,blue colored solution,不重装,fixed assembly,10,301,45,7.732782949503054e-05,3.479752327276374e-05,False
+sg_snv,王浩洋,Huawei P60,蓝色溶液,blue colored solution,不重装,fixed assembly,10,301,45,0.0016361838912558,0.0007362827510651,True
+raw_effective,王浩洋,Huawei P60,蓝色溶液,blue colored solution,重装,reassembly,12,301,66,0.070791560990632,0.0324461321207063,False
+sg,王浩洋,Huawei P60,蓝色溶液,blue colored solution,重装,reassembly,12,301,66,0.0707850275510577,0.0324431376275681,False
+sg_snv,王浩洋,Huawei P60,蓝色溶液,blue colored solution,重装,reassembly,12,301,66,1.0965696148810853,0.5025944068204975,True
+raw_effective,王浩洋,Huawei P60,黄色溶液,yellow colored solution,不重装,fixed assembly,10,301,45,0.0001110360528621,4.9966223787953225e-05,False
+sg,王浩洋,Huawei P60,黄色溶液,yellow colored solution,不重装,fixed assembly,10,301,45,0.0001109353738698,4.992091824143703e-05,False
+sg_snv,王浩洋,Huawei P60,黄色溶液,yellow colored solution,不重装,fixed assembly,10,301,45,0.0006565381959831,0.0002954421881923,True
+raw_effective,王浩洋,Huawei P60,黄色溶液,yellow colored solution,重装,reassembly,12,300,66,0.3207500327124823,0.1470104316598877,False
+sg,王浩洋,Huawei P60,黄色溶液,yellow colored solution,重装,reassembly,12,300,66,0.3207317986935321,0.1470020744012022,False
+sg_snv,王浩洋,Huawei P60,黄色溶液,yellow colored solution,重装,reassembly,12,300,66,0.4026483015933332,0.1845471382302777,True
+raw_effective,肖建成,Redmi K60,红色溶液,red colored solution,不重装,fixed assembly,10,301,45,7.256768474088922e-05,3.265545813340014e-05,False
+sg,肖建成,Redmi K60,红色溶液,red colored solution,不重装,fixed assembly,10,301,45,7.241416113386936e-05,3.258637251024121e-05,False
+sg_snv,肖建成,Redmi K60,红色溶液,red colored solution,不重装,fixed assembly,10,301,45,0.0033032971962451,0.0014864837383103,True
+raw_effective,肖建成,Redmi K60,红色溶液,red colored solution,重装,reassembly,12,301,66,0.0025971073488633,0.001190340868229,False
+sg,肖建成,Redmi K60,红色溶液,red colored solution,重装,reassembly,12,301,66,0.0025921942998463,0.0011880890540962,False
+sg_snv,肖建成,Redmi K60,红色溶液,red colored solution,重装,reassembly,12,301,66,0.1215741144196076,0.0557214691089868,True
+raw_effective,肖建成,Redmi K60,蓝色溶液,blue colored solution,不重装,fixed assembly,10,301,45,0.0006124031163096,0.0002755814023393,False
+sg,肖建成,Redmi K60,蓝色溶液,blue colored solution,不重装,fixed assembly,10,301,45,0.0006123766994433,0.0002755695147494,False
+sg_snv,肖建成,Redmi K60,蓝色溶液,blue colored solution,不重装,fixed assembly,10,301,45,0.01587349449858,0.007143072524361,True
+raw_effective,肖建成,Redmi K60,蓝色溶液,blue colored solution,重装,reassembly,12,301,66,0.005903091993708,0.0027055838304495,False
+sg,肖建成,Redmi K60,蓝色溶液,blue colored solution,重装,reassembly,12,301,66,0.0058934834766535,0.0027011799267995,False
+sg_snv,肖建成,Redmi K60,蓝色溶液,blue colored solution,重装,reassembly,12,301,66,0.1481147567599053,0.0678859301816232,True
+raw_effective,肖建成,Redmi K60,黄色溶液,yellow colored solution,不重装,fixed assembly,10,301,45,0.0007624008703212,0.0003430803916445,False
+sg,肖建成,Redmi K60,黄色溶液,yellow colored solution,不重装,fixed assembly,10,301,45,0.0007616472525777,0.0003427412636599,False
+sg_snv,肖建成,Redmi K60,黄色溶液,yellow colored solution,不重装,fixed assembly,10,301,45,0.0029420554596774,0.0013239249568548,True
+raw_effective,肖建成,Redmi K60,黄色溶液,yellow colored solution,重装,reassembly,12,301,66,0.0088613985457207,0.0040614743334553,False
+sg,肖建成,Redmi K60,黄色溶液,yellow colored solution,重装,reassembly,12,301,66,0.0088414195456972,0.0040523172917779,False
+sg_snv,肖建成,Redmi K60,黄色溶液,yellow colored solution,重装,reassembly,12,301,66,0.0590549338141133,0.0270668446648019,True

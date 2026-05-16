@@ -1,0 +1,11 @@
+dataset,sample_id,concentration_mg_L,concentration_label,replicate_id,class_label,label_use_boundary
+blind,blind_1.25,1.25,1.25,1,Mid,evaluation_only_after_classifier_locking
+blind,blind_2.5,2.5,2.5,1,Mid,evaluation_only_after_classifier_locking
+blind,blind_3.75,3.75,3.75,1,Mid,evaluation_only_after_classifier_locking
+blind,blind_6.25,6.25,6.25,1,Mid,evaluation_only_after_classifier_locking
+blind,blind_7.5,7.5,7.5,1,Mid,evaluation_only_after_classifier_locking
+blind,blind_17.5,17.5,17.5,1,High,evaluation_only_after_classifier_locking
+blind,blind_30,30.0,30.0,1,High,evaluation_only_after_classifier_locking
+blind,blind_37.5,37.5,37.5,1,High,evaluation_only_after_classifier_locking
+blind,blind_55,55.0,55.0,1,High,evaluation_only_after_classifier_locking
+blind,blind_62.5,62.5,62.5,1,High,evaluation_only_after_classifier_locking
