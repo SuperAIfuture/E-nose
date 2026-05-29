@@ -1,0 +1,208 @@
+dataset,protocol,model_name,target_batch,n_train,n_val,n_test,split_type,notes
+uci270,A_cold_batch_transfer,ss_svm_rbf,2,356,89,1244,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,ss_svm_rbf,3,356,89,1586,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,ss_svm_rbf,4,356,89,161,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,ss_svm_rbf,5,356,89,197,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,ss_svm_rbf,6,356,89,2300,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,ss_svm_rbf,7,356,89,3613,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,ss_svm_rbf,8,356,89,294,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,ss_svm_rbf,9,356,89,470,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,ss_svm_rbf,10,356,89,3600,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm,2,356,89,1244,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm,3,356,89,1586,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm,4,356,89,161,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm,5,356,89,197,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm,6,356,89,2300,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm,7,356,89,3613,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm,8,356,89,294,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm,9,356,89,470,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm,10,356,89,3600,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm_noscaler,2,356,89,1244,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm_noscaler,3,356,89,1586,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm_noscaler,4,356,89,161,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm_noscaler,5,356,89,197,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm_noscaler,6,356,89,2300,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm_noscaler,7,356,89,3613,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm_noscaler,8,356,89,294,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm_noscaler,9,356,89,470,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_combined_svm_noscaler,10,356,89,3600,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_logratio_svm,2,356,89,1244,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_logratio_svm,3,356,89,1586,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_logratio_svm,4,356,89,161,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_logratio_svm,5,356,89,197,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_logratio_svm,6,356,89,2300,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_logratio_svm,7,356,89,3613,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_logratio_svm,8,356,89,294,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_logratio_svm,9,356,89,470,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_logratio_svm,10,356,89,3600,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_blockcomp_svm,2,356,89,1244,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_blockcomp_svm,3,356,89,1586,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_blockcomp_svm,4,356,89,161,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_blockcomp_svm,5,356,89,197,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_blockcomp_svm,6,356,89,2300,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_blockcomp_svm,7,356,89,3613,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_blockcomp_svm,8,356,89,294,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_blockcomp_svm,9,356,89,470,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routear_blockcomp_svm,10,356,89,3600,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,coral_svm,2,356,89,1244,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,coral_svm,3,356,89,1586,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,coral_svm,4,356,89,161,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,coral_svm,5,356,89,197,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,coral_svm,6,356,89,2300,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,coral_svm,7,356,89,3613,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,coral_svm,8,356,89,294,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,coral_svm,9,356,89,470,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,coral_svm,10,356,89,3600,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routea_core_svm,2,356,89,1244,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routea_core_svm,3,356,89,1586,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routea_core_svm,4,356,89,161,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routea_core_svm,5,356,89,197,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routea_core_svm,6,356,89,2300,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routea_core_svm,7,356,89,3613,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routea_core_svm,8,356,89,294,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routea_core_svm,9,356,89,470,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,routea_core_svm,10,356,89,3600,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,logreg,2,356,89,1244,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,logreg,3,356,89,1586,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,logreg,4,356,89,161,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,logreg,5,356,89,197,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,logreg,6,356,89,2300,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,logreg,7,356,89,3613,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,logreg,8,356,89,294,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,logreg,9,356,89,470,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,logreg,10,356,89,3600,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,rf,2,356,89,1244,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,rf,3,356,89,1586,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,rf,4,356,89,161,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,rf,5,356,89,197,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,rf,6,356,89,2300,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,rf,7,356,89,3613,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,rf,8,356,89,294,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,rf,9,356,89,470,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,rf,10,356,89,3600,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,hgb,2,356,89,1244,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,hgb,3,356,89,1586,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,hgb,4,356,89,161,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,hgb,5,356,89,197,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,hgb,6,356,89,2300,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,hgb,7,356,89,3613,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,hgb,8,356,89,294,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,hgb,9,356,89,470,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,A_cold_batch_transfer,hgb,10,356,89,3600,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci270,B_rolling_update,ss_svm_rbf,2,445,0,1244,confirmatory,train=batches<target; validation=confirmatory_fixed_params_all_targets_no_batchsafe_val_batch2
+uci270,B_rolling_update,ss_svm_rbf,3,445,1244,1586,confirmatory,train=batches<target; validation=holdout_latest_train_batch_2;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,ss_svm_rbf,4,1689,1586,161,confirmatory,train=batches<target; validation=holdout_latest_train_batch_3;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,ss_svm_rbf,5,3275,161,197,confirmatory,train=batches<target; validation=holdout_latest_train_batch_4;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,ss_svm_rbf,6,3436,197,2300,confirmatory,train=batches<target; validation=holdout_latest_train_batch_5;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,ss_svm_rbf,7,3633,2300,3613,confirmatory,train=batches<target; validation=holdout_latest_train_batch_6;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,ss_svm_rbf,8,5933,3613,294,confirmatory,train=batches<target; validation=holdout_latest_train_batch_7;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,ss_svm_rbf,9,9546,294,470,confirmatory,train=batches<target; validation=holdout_latest_train_batch_8;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,ss_svm_rbf,10,9840,470,3600,confirmatory,train=batches<target; validation=holdout_latest_train_batch_9;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,routear_combined_svm,2,445,0,1244,exploratory,train=batches<target; validation=no_inner_tuning_single_train_batch
+uci270,B_rolling_update,routear_combined_svm,3,445,1244,1586,exploratory,train=batches<target; validation=holdout_latest_train_batch_2
+uci270,B_rolling_update,routear_combined_svm,4,1689,1586,161,exploratory,train=batches<target; validation=holdout_latest_train_batch_3
+uci270,B_rolling_update,routear_combined_svm,5,3275,161,197,exploratory,train=batches<target; validation=holdout_latest_train_batch_4
+uci270,B_rolling_update,routear_combined_svm,6,3436,197,2300,exploratory,train=batches<target; validation=holdout_latest_train_batch_5
+uci270,B_rolling_update,routear_combined_svm,7,3633,2300,3613,exploratory,train=batches<target; validation=holdout_latest_train_batch_6
+uci270,B_rolling_update,routear_combined_svm,8,5933,3613,294,exploratory,train=batches<target; validation=holdout_latest_train_batch_7
+uci270,B_rolling_update,routear_combined_svm,9,9546,294,470,exploratory,train=batches<target; validation=holdout_latest_train_batch_8
+uci270,B_rolling_update,routear_combined_svm,10,9840,470,3600,exploratory,train=batches<target; validation=holdout_latest_train_batch_9
+uci270,B_rolling_update,routear_combined_svm_noscaler,2,445,0,1244,exploratory,train=batches<target; validation=no_inner_tuning_single_train_batch
+uci270,B_rolling_update,routear_combined_svm_noscaler,3,445,1244,1586,exploratory,train=batches<target; validation=holdout_latest_train_batch_2
+uci270,B_rolling_update,routear_combined_svm_noscaler,4,1689,1586,161,exploratory,train=batches<target; validation=holdout_latest_train_batch_3
+uci270,B_rolling_update,routear_combined_svm_noscaler,5,3275,161,197,exploratory,train=batches<target; validation=holdout_latest_train_batch_4
+uci270,B_rolling_update,routear_combined_svm_noscaler,6,3436,197,2300,exploratory,train=batches<target; validation=holdout_latest_train_batch_5
+uci270,B_rolling_update,routear_combined_svm_noscaler,7,3633,2300,3613,exploratory,train=batches<target; validation=holdout_latest_train_batch_6
+uci270,B_rolling_update,routear_combined_svm_noscaler,8,5933,3613,294,exploratory,train=batches<target; validation=holdout_latest_train_batch_7
+uci270,B_rolling_update,routear_combined_svm_noscaler,9,9546,294,470,exploratory,train=batches<target; validation=holdout_latest_train_batch_8
+uci270,B_rolling_update,routear_combined_svm_noscaler,10,9840,470,3600,exploratory,train=batches<target; validation=holdout_latest_train_batch_9
+uci270,B_rolling_update,routear_logratio_svm,2,445,0,1244,confirmatory,train=batches<target; validation=confirmatory_fixed_params_all_targets_no_batchsafe_val_batch2
+uci270,B_rolling_update,routear_logratio_svm,3,445,1244,1586,confirmatory,train=batches<target; validation=holdout_latest_train_batch_2;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,routear_logratio_svm,4,1689,1586,161,confirmatory,train=batches<target; validation=holdout_latest_train_batch_3;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,routear_logratio_svm,5,3275,161,197,confirmatory,train=batches<target; validation=holdout_latest_train_batch_4;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,routear_logratio_svm,6,3436,197,2300,confirmatory,train=batches<target; validation=holdout_latest_train_batch_5;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,routear_logratio_svm,7,3633,2300,3613,confirmatory,train=batches<target; validation=holdout_latest_train_batch_6;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,routear_logratio_svm,8,5933,3613,294,confirmatory,train=batches<target; validation=holdout_latest_train_batch_7;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,routear_logratio_svm,9,9546,294,470,confirmatory,train=batches<target; validation=holdout_latest_train_batch_8;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,routear_logratio_svm,10,9840,470,3600,confirmatory,train=batches<target; validation=holdout_latest_train_batch_9;confirmatory_fixed_params_inner_val_unused
+uci270,B_rolling_update,routear_blockcomp_svm,2,445,0,1244,exploratory,train=batches<target; validation=no_inner_tuning_single_train_batch
+uci270,B_rolling_update,routear_blockcomp_svm,3,445,1244,1586,exploratory,train=batches<target; validation=holdout_latest_train_batch_2
+uci270,B_rolling_update,routear_blockcomp_svm,4,1689,1586,161,exploratory,train=batches<target; validation=holdout_latest_train_batch_3
+uci270,B_rolling_update,routear_blockcomp_svm,5,3275,161,197,exploratory,train=batches<target; validation=holdout_latest_train_batch_4
+uci270,B_rolling_update,routear_blockcomp_svm,6,3436,197,2300,exploratory,train=batches<target; validation=holdout_latest_train_batch_5
+uci270,B_rolling_update,routear_blockcomp_svm,7,3633,2300,3613,exploratory,train=batches<target; validation=holdout_latest_train_batch_6
+uci270,B_rolling_update,routear_blockcomp_svm,8,5933,3613,294,exploratory,train=batches<target; validation=holdout_latest_train_batch_7
+uci270,B_rolling_update,routear_blockcomp_svm,9,9546,294,470,exploratory,train=batches<target; validation=holdout_latest_train_batch_8
+uci270,B_rolling_update,routear_blockcomp_svm,10,9840,470,3600,exploratory,train=batches<target; validation=holdout_latest_train_batch_9
+uci270,B_rolling_update,coral_svm,2,445,0,1244,exploratory,train=batches<target; validation=no_inner_tuning_single_train_batch
+uci270,B_rolling_update,coral_svm,3,445,1244,1586,exploratory,train=batches<target; validation=holdout_latest_train_batch_2
+uci270,B_rolling_update,coral_svm,4,1689,1586,161,exploratory,train=batches<target; validation=holdout_latest_train_batch_3
+uci270,B_rolling_update,coral_svm,5,3275,161,197,exploratory,train=batches<target; validation=holdout_latest_train_batch_4
+uci270,B_rolling_update,coral_svm,6,3436,197,2300,exploratory,train=batches<target; validation=holdout_latest_train_batch_5
+uci270,B_rolling_update,coral_svm,7,3633,2300,3613,exploratory,train=batches<target; validation=holdout_latest_train_batch_6
+uci270,B_rolling_update,coral_svm,8,5933,3613,294,exploratory,train=batches<target; validation=holdout_latest_train_batch_7
+uci270,B_rolling_update,coral_svm,9,9546,294,470,exploratory,train=batches<target; validation=holdout_latest_train_batch_8
+uci270,B_rolling_update,coral_svm,10,9840,470,3600,exploratory,train=batches<target; validation=holdout_latest_train_batch_9
+uci270,B_rolling_update,routea_core_svm,2,445,0,1244,exploratory,train=batches<target; validation=no_inner_tuning_single_train_batch
+uci270,B_rolling_update,routea_core_svm,3,445,1244,1586,exploratory,train=batches<target; validation=holdout_latest_train_batch_2
+uci270,B_rolling_update,routea_core_svm,4,1689,1586,161,exploratory,train=batches<target; validation=holdout_latest_train_batch_3
+uci270,B_rolling_update,routea_core_svm,5,3275,161,197,exploratory,train=batches<target; validation=holdout_latest_train_batch_4
+uci270,B_rolling_update,routea_core_svm,6,3436,197,2300,exploratory,train=batches<target; validation=holdout_latest_train_batch_5
+uci270,B_rolling_update,routea_core_svm,7,3633,2300,3613,exploratory,train=batches<target; validation=holdout_latest_train_batch_6
+uci270,B_rolling_update,routea_core_svm,8,5933,3613,294,exploratory,train=batches<target; validation=holdout_latest_train_batch_7
+uci270,B_rolling_update,routea_core_svm,9,9546,294,470,exploratory,train=batches<target; validation=holdout_latest_train_batch_8
+uci270,B_rolling_update,routea_core_svm,10,9840,470,3600,exploratory,train=batches<target; validation=holdout_latest_train_batch_9
+uci270,B_rolling_update,logreg,2,445,0,1244,exploratory,train=batches<target; validation=no_inner_tuning_single_train_batch
+uci270,B_rolling_update,logreg,3,445,1244,1586,exploratory,train=batches<target; validation=holdout_latest_train_batch_2
+uci270,B_rolling_update,logreg,4,1689,1586,161,exploratory,train=batches<target; validation=holdout_latest_train_batch_3
+uci270,B_rolling_update,logreg,5,3275,161,197,exploratory,train=batches<target; validation=holdout_latest_train_batch_4
+uci270,B_rolling_update,logreg,6,3436,197,2300,exploratory,train=batches<target; validation=holdout_latest_train_batch_5
+uci270,B_rolling_update,logreg,7,3633,2300,3613,exploratory,train=batches<target; validation=holdout_latest_train_batch_6
+uci270,B_rolling_update,logreg,8,5933,3613,294,exploratory,train=batches<target; validation=holdout_latest_train_batch_7
+uci270,B_rolling_update,logreg,9,9546,294,470,exploratory,train=batches<target; validation=holdout_latest_train_batch_8
+uci270,B_rolling_update,logreg,10,9840,470,3600,exploratory,train=batches<target; validation=holdout_latest_train_batch_9
+uci270,B_rolling_update,rf,2,445,0,1244,exploratory,train=batches<target; validation=no_inner_tuning_single_train_batch
+uci270,B_rolling_update,rf,3,445,1244,1586,exploratory,train=batches<target; validation=holdout_latest_train_batch_2
+uci270,B_rolling_update,rf,4,1689,1586,161,exploratory,train=batches<target; validation=holdout_latest_train_batch_3
+uci270,B_rolling_update,rf,5,3275,161,197,exploratory,train=batches<target; validation=holdout_latest_train_batch_4
+uci270,B_rolling_update,rf,6,3436,197,2300,exploratory,train=batches<target; validation=holdout_latest_train_batch_5
+uci270,B_rolling_update,rf,7,3633,2300,3613,exploratory,train=batches<target; validation=holdout_latest_train_batch_6
+uci270,B_rolling_update,rf,8,5933,3613,294,exploratory,train=batches<target; validation=holdout_latest_train_batch_7
+uci270,B_rolling_update,rf,9,9546,294,470,exploratory,train=batches<target; validation=holdout_latest_train_batch_8
+uci270,B_rolling_update,rf,10,9840,470,3600,exploratory,train=batches<target; validation=holdout_latest_train_batch_9
+uci270,B_rolling_update,hgb,2,445,0,1244,exploratory,train=batches<target; validation=no_inner_tuning_single_train_batch
+uci270,B_rolling_update,hgb,3,445,1244,1586,exploratory,train=batches<target; validation=holdout_latest_train_batch_2
+uci270,B_rolling_update,hgb,4,1689,1586,161,exploratory,train=batches<target; validation=holdout_latest_train_batch_3
+uci270,B_rolling_update,hgb,5,3275,161,197,exploratory,train=batches<target; validation=holdout_latest_train_batch_4
+uci270,B_rolling_update,hgb,6,3436,197,2300,exploratory,train=batches<target; validation=holdout_latest_train_batch_5
+uci270,B_rolling_update,hgb,7,3633,2300,3613,exploratory,train=batches<target; validation=holdout_latest_train_batch_6
+uci270,B_rolling_update,hgb,8,5933,3613,294,exploratory,train=batches<target; validation=holdout_latest_train_batch_7
+uci270,B_rolling_update,hgb,9,9546,294,470,exploratory,train=batches<target; validation=holdout_latest_train_batch_8
+uci270,B_rolling_update,hgb,10,9840,470,3600,exploratory,train=batches<target; validation=holdout_latest_train_batch_9
+uci224,A_cold_batch_transfer,ss_svm_rbf,2,356,89,1244,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,ss_svm_rbf,3,356,89,1586,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,ss_svm_rbf,4,356,89,161,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,ss_svm_rbf,5,356,89,197,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,ss_svm_rbf,6,356,89,2300,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,ss_svm_rbf,7,356,89,3613,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,ss_svm_rbf,8,356,89,294,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,ss_svm_rbf,9,356,89,470,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,ss_svm_rbf,10,356,89,3600,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,routear_logratio_svm,2,356,89,1244,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,routear_logratio_svm,3,356,89,1586,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,routear_logratio_svm,4,356,89,161,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,routear_logratio_svm,5,356,89,197,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,routear_logratio_svm,6,356,89,2300,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,routear_logratio_svm,7,356,89,3613,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,routear_logratio_svm,8,356,89,294,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,routear_logratio_svm,9,356,89,470,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,routear_logratio_svm,10,356,89,3600,confirmatory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,coral_svm,2,356,89,1244,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,coral_svm,3,356,89,1586,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,coral_svm,4,356,89,161,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,coral_svm,5,356,89,197,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,coral_svm,6,356,89,2300,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,coral_svm,7,356,89,3613,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,coral_svm,8,356,89,294,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,coral_svm,9,356,89,470,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)
+uci224,A_cold_batch_transfer,coral_svm,10,356,89,3600,exploratory,Protocol A cold-start; confirmatory SVM-family models use fixed preregistered params (no inner tuning)

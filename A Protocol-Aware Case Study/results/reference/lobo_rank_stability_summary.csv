@@ -1,0 +1,6 @@
+model_name,full_rank_by_median,lobo_rank_min,lobo_rank_max,lobo_rank_mean,lobo_rank_std,top1_count_lobo
+signed_log_abs_svm,1,1,2,1.5555555555555556,0.4969039949999533,4
+power_yeojohnson_svm,2,1,2,1.4444444444444444,0.4969039949999533,5
+routear_combined_svm,3,3,3,3.0,0.0,0
+quantile_normal_svm,4,4,4,4.0,0.0,0
+robust_svm_rbf,5,5,5,5.0,0.0,0

@@ -1,0 +1,757 @@
+protocol,target_batch,tuning_policy,train_batches,inner_train_batches,inner_val_batches,model_name,C,gamma,val_macro_f1_fixed6
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,1.0,0.001,0.7717683964733532
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,1.0,0.00390625,0.9198515445565012
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,1.0,0.0078125,0.946808615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,1.0,0.01,0.946808615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,10.0,0.001,0.946808615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,10.0,0.00390625,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,10.0,0.0078125,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,10.0,0.01,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,50.0,0.001,0.9817858180761406
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,50.0,0.00390625,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,50.0,0.0078125,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],power_yeojohnson_svm,50.0,0.01,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,1.0,0.001,0.8004323366711836
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,1.0,0.00390625,0.9200818885368452
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,1.0,0.0078125,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,1.0,0.01,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,10.0,0.001,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,10.0,0.00390625,0.946808615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,10.0,0.0078125,0.9700307560260354
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,10.0,0.01,0.9700307560260354
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,50.0,0.001,0.946808615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,50.0,0.00390625,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,50.0,0.0078125,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],signed_log_abs_svm,50.0,0.01,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,1.0,0.001,0.886326640341942
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,1.0,0.00390625,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,1.0,0.0078125,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,1.0,0.01,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,10.0,0.001,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,10.0,0.00390625,0.9709025956075523
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,10.0,0.0078125,0.9709025956075523
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,10.0,0.01,0.9709025956075523
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,50.0,0.001,0.9709025956075523
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,50.0,0.00390625,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,50.0,0.0078125,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],routear_combined_svm,50.0,0.01,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,1.0,0.001,0.7820618832374282
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,1.0,0.00390625,0.9198515445565012
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,1.0,0.0078125,0.9562499999999999
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,1.0,0.01,0.9562499999999999
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,10.0,0.001,0.9562499999999999
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,10.0,0.00390625,1.0
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,10.0,0.0078125,1.0
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,10.0,0.01,1.0
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,50.0,0.001,1.0
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,50.0,0.00390625,1.0
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,50.0,0.0078125,1.0
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],quantile_normal_svm,50.0,0.01,1.0
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,1.0,0.001,0.8008052271490217
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,1.0,0.00390625,0.8918555891696235
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,1.0,0.0078125,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,1.0,0.01,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,10.0,0.001,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,10.0,0.00390625,0.946808615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,10.0,0.0078125,0.9700307560260354
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,10.0,0.01,0.9700307560260354
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,50.0,0.001,0.9380358180761407
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,50.0,0.00390625,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,50.0,0.0078125,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ratio_median_svm,50.0,0.01,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,1.0,0.001,0.8008052271490217
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,1.0,0.00390625,0.8918555891696235
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,1.0,0.0078125,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,1.0,0.01,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,10.0,0.001,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,10.0,0.00390625,0.946808615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,10.0,0.0078125,0.9700307560260354
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,10.0,0.01,0.9700307560260354
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,50.0,0.001,0.9380358180761407
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,50.0,0.00390625,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,50.0,0.0078125,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],ss_svm_rbf,50.0,0.01,0.990558615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,1.0,0.001,0.7289232983059457
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,1.0,0.00390625,0.8541308329351806
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,1.0,0.0078125,0.909174200545824
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,1.0,0.01,0.9361312712528945
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,10.0,0.001,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,10.0,0.00390625,0.9473444333397126
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,10.0,0.0078125,0.946808615263572
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,10.0,0.01,0.9700307560260354
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,50.0,0.001,0.9388087153367289
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,50.0,0.00390625,0.9700307560260354
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,50.0,0.0078125,0.9700307560260354
+B_rolling_update,2,row_level_stratified_fallback_single_train_batch,[1],[1],[1],robust_svm_rbf,50.0,0.01,0.9700307560260354
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,1.0,0.001,0.696536859248381
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,1.0,0.00390625,0.7143818284842216
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,1.0,0.0078125,0.7041677839575936
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,1.0,0.01,0.7022435471811495
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,10.0,0.001,0.6882735304420308
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,10.0,0.00390625,0.715120863637238
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,10.0,0.0078125,0.7145186067126671
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,10.0,0.01,0.7083809301118148
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,50.0,0.001,0.7010072297140336
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,50.0,0.00390625,0.7252232758438883
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,50.0,0.0078125,0.7215313714884348
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],power_yeojohnson_svm,50.0,0.01,0.6962597179906026
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,1.0,0.001,0.6810710058250008
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,1.0,0.00390625,0.6746225125510134
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,1.0,0.0078125,0.6912078201940051
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,1.0,0.01,0.6939272068706389
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,10.0,0.001,0.6974159225726123
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,10.0,0.00390625,0.7076389253884751
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,10.0,0.0078125,0.7046853986028826
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,10.0,0.01,0.7073660807575517
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,50.0,0.001,0.7275643574522378
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,50.0,0.00390625,0.7043284719617224
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,50.0,0.0078125,0.7047642484327826
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],signed_log_abs_svm,50.0,0.01,0.7044040568446809
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,1.0,0.001,0.741841368662194
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,1.0,0.00390625,0.7069817766979839
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,1.0,0.0078125,0.7109116313245308
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,1.0,0.01,0.7212688105323908
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,10.0,0.001,0.7259899889922207
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,10.0,0.00390625,0.686323138147814
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,10.0,0.0078125,0.685722377621417
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,10.0,0.01,0.7365173736142534
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,50.0,0.001,0.6421868602504571
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,50.0,0.00390625,0.7507531025177746
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,50.0,0.0078125,0.7450344325153665
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],routear_combined_svm,50.0,0.01,0.7429220107996338
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,1.0,0.001,0.632148498230812
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,1.0,0.00390625,0.6962253416355454
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,1.0,0.0078125,0.6951233713497817
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,1.0,0.01,0.7019143644636242
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,10.0,0.001,0.6068853402871056
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,10.0,0.00390625,0.6571480216295981
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,10.0,0.0078125,0.6473003137426182
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,10.0,0.01,0.6497227669021503
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,50.0,0.001,0.5097866135683314
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,50.0,0.00390625,0.6456395444753492
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,50.0,0.0078125,0.6448175725937172
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],quantile_normal_svm,50.0,0.01,0.6497227669021503
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,1.0,0.001,0.5800079359575927
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,1.0,0.00390625,0.5980509995043021
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,1.0,0.0078125,0.6357642420262143
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,1.0,0.01,0.6467563142376836
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,10.0,0.001,0.5819340510954571
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,10.0,0.00390625,0.5388766286693135
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,10.0,0.0078125,0.570004769259148
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,10.0,0.01,0.5656688626428471
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,50.0,0.001,0.4495660050141533
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,50.0,0.00390625,0.5732269223763834
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,50.0,0.0078125,0.6754053696660312
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ratio_median_svm,50.0,0.01,0.6880561415240646
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,1.0,0.001,0.5800079359575927
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,1.0,0.00390625,0.5980509995043021
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,1.0,0.0078125,0.6357642420262143
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,1.0,0.01,0.6467563142376836
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,10.0,0.001,0.5819340510954571
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,10.0,0.00390625,0.5388766286693135
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,10.0,0.0078125,0.570004769259148
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,10.0,0.01,0.5656688626428471
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,50.0,0.001,0.4495660050141533
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,50.0,0.00390625,0.5732269223763834
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,50.0,0.0078125,0.6754053696660312
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],ss_svm_rbf,50.0,0.01,0.6880561415240646
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,1.0,0.001,0.5469712036308332
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,1.0,0.00390625,0.5589085284971483
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,1.0,0.0078125,0.6615376670928851
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,1.0,0.01,0.6822555183882439
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,10.0,0.001,0.6450882573547864
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,10.0,0.00390625,0.5303410719919861
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,10.0,0.0078125,0.6321761431559323
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,10.0,0.01,0.661099803833673
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,50.0,0.001,0.5785250243995067
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,50.0,0.00390625,0.6120806828052346
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,50.0,0.0078125,0.6175498642625219
+B_rolling_update,3,holdout_latest_train_batch,"[1, 2]",[1],[2],robust_svm_rbf,50.0,0.01,0.62727564216393
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,1.0,0.001,0.6428648300262838
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,1.0,0.00390625,0.726505780414263
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,1.0,0.0078125,0.7467135247410477
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,1.0,0.01,0.7591029493557184
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,10.0,0.001,0.7504872438987885
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,10.0,0.00390625,0.7993160866750636
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,10.0,0.0078125,0.807254632421564
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,10.0,0.01,0.7947700961826424
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,50.0,0.001,0.7904347255708087
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,50.0,0.00390625,0.8015099863268303
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,50.0,0.0078125,0.8055865235486729
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],power_yeojohnson_svm,50.0,0.01,0.7931321566284676
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,1.0,0.001,0.6648020450158689
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,1.0,0.00390625,0.7329280380715302
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,1.0,0.0078125,0.7501640147511403
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,1.0,0.01,0.7759792594067664
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,10.0,0.001,0.747610188749284
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,10.0,0.00390625,0.7950663956072215
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,10.0,0.0078125,0.7765407691607223
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,10.0,0.01,0.7746953044030148
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,50.0,0.001,0.8083630491479744
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,50.0,0.00390625,0.7944749792513583
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,50.0,0.0078125,0.7262320743655536
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],signed_log_abs_svm,50.0,0.01,0.7469487340717157
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,1.0,0.001,0.6799940566880439
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,1.0,0.00390625,0.7574986459714018
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,1.0,0.0078125,0.758948464618373
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,1.0,0.01,0.7838022510618048
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,10.0,0.001,0.7650585778357123
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,10.0,0.00390625,0.8091695814863892
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,10.0,0.0078125,0.8030555484700588
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,10.0,0.01,0.7860314420630642
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,50.0,0.001,0.8212462274228053
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,50.0,0.00390625,0.8198099119922476
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,50.0,0.0078125,0.7860846701183455
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],routear_combined_svm,50.0,0.01,0.7826754265077208
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,1.0,0.001,0.6484782397832997
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,1.0,0.00390625,0.723417210717002
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,1.0,0.0078125,0.7433619114640496
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,1.0,0.01,0.744462420618856
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,10.0,0.001,0.6918867313517705
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,10.0,0.00390625,0.759923126306442
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,10.0,0.0078125,0.7464827032130456
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,10.0,0.01,0.75699311741288
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,50.0,0.001,0.7387347568511883
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,50.0,0.00390625,0.7298932259385419
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,50.0,0.0078125,0.7475619033511931
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],quantile_normal_svm,50.0,0.01,0.7585994785034366
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,1.0,0.001,0.607692396631729
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,1.0,0.00390625,0.7219907338327977
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,1.0,0.0078125,0.7316346353958542
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,1.0,0.01,0.7343108307543965
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,10.0,0.001,0.7150482141769983
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,10.0,0.00390625,0.7388900543916286
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,10.0,0.0078125,0.7760765361960918
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,10.0,0.01,0.7786723954346088
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,50.0,0.001,0.7695064672938443
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,50.0,0.00390625,0.7897641426067946
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,50.0,0.0078125,0.7728804012716844
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ratio_median_svm,50.0,0.01,0.7721569086972174
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,1.0,0.001,0.607692396631729
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,1.0,0.00390625,0.7219907338327977
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,1.0,0.0078125,0.7316346353958542
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,1.0,0.01,0.7343108307543965
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,10.0,0.001,0.7150482141769983
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,10.0,0.00390625,0.7388900543916286
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,10.0,0.0078125,0.7760765361960918
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,10.0,0.01,0.7786723954346088
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,50.0,0.001,0.7695064672938443
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,50.0,0.00390625,0.7897641426067946
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,50.0,0.0078125,0.7728804012716844
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],ss_svm_rbf,50.0,0.01,0.7721569086972174
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,1.0,0.001,0.5850274329122014
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,1.0,0.00390625,0.7156727353907545
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,1.0,0.0078125,0.7564801671769691
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,1.0,0.01,0.7635242356982136
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,10.0,0.001,0.696706649143699
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,10.0,0.00390625,0.768218375826149
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,10.0,0.0078125,0.773882834992312
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,10.0,0.01,0.7718114036043757
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,50.0,0.001,0.793406843829601
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,50.0,0.00390625,0.8005145949824796
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,50.0,0.0078125,0.7571312024645618
+B_rolling_update,4,holdout_latest_train_batch,"[1, 2, 3]","[1, 2]",[3],robust_svm_rbf,50.0,0.01,0.734442332409488
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,1.0,0.001,0.6756842854706276
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,1.0,0.00390625,0.7716454829626186
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,1.0,0.0078125,0.7680260915555032
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,1.0,0.01,0.7587773156400607
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,10.0,0.001,0.7737976282498445
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,10.0,0.00390625,0.7812062836830638
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,10.0,0.0078125,0.7680260915555032
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,10.0,0.01,0.7680260915555032
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,50.0,0.001,0.7209844014460048
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,50.0,0.00390625,0.7750656740182521
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,50.0,0.0078125,0.7680260915555032
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],power_yeojohnson_svm,50.0,0.01,0.7680260915555032
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,1.0,0.001,0.6835961657390229
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,1.0,0.00390625,0.7362812470772123
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,1.0,0.0078125,0.7555544805641555
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,1.0,0.01,0.7680260915555032
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,10.0,0.001,0.738910242127154
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,10.0,0.00390625,0.7610742311553671
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,10.0,0.0078125,0.7617638949707262
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,10.0,0.01,0.764887556969906
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,50.0,0.001,0.7449799277536832
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,50.0,0.00390625,0.7194880977537546
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,50.0,0.0078125,0.7524654546858113
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],signed_log_abs_svm,50.0,0.01,0.7432420345133818
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,1.0,0.001,0.7514379410185118
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,1.0,0.00390625,0.765095936316059
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,1.0,0.0078125,0.7683182123484066
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,1.0,0.01,0.7683182123484066
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,10.0,0.001,0.780764029749831
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,10.0,0.00390625,0.765095936316059
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,10.0,0.0078125,0.7683182123484066
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,10.0,0.01,0.7683182123484066
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,50.0,0.001,0.7731241860530357
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,50.0,0.00390625,0.765095936316059
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,50.0,0.0078125,0.7683182123484066
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],routear_combined_svm,50.0,0.01,0.7683182123484066
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,1.0,0.001,0.6833985509629191
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,1.0,0.00390625,0.7619972322664167
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,1.0,0.0078125,0.758653420134341
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,1.0,0.01,0.7555544805641555
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,10.0,0.001,0.8026143790849675
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,10.0,0.00390625,0.7975238095238094
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,10.0,0.0078125,0.7680260915555032
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,10.0,0.01,0.7524654546858113
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,50.0,0.001,0.8079004329004329
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,50.0,0.00390625,0.7823848238482385
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,50.0,0.0078125,0.7711812210264223
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],quantile_normal_svm,50.0,0.01,0.7524654546858113
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,1.0,0.001,0.6993838792372665
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,1.0,0.00390625,0.7562800786359003
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,1.0,0.0078125,0.7537567478053626
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,1.0,0.01,0.7537567478053626
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,10.0,0.001,0.686874439908394
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,10.0,0.00390625,0.7211406146111062
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,10.0,0.0078125,0.7515316851378233
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,10.0,0.01,0.7595711665961349
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,50.0,0.001,0.7129274281891234
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,50.0,0.00390625,0.7242390289449112
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,50.0,0.0078125,0.7515316851378233
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ratio_median_svm,50.0,0.01,0.7595711665961349
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,1.0,0.001,0.6993838792372665
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,1.0,0.00390625,0.7562800786359003
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,1.0,0.0078125,0.7537567478053626
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,1.0,0.01,0.7537567478053626
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,10.0,0.001,0.686874439908394
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,10.0,0.00390625,0.7211406146111062
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,10.0,0.0078125,0.7515316851378233
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,10.0,0.01,0.7595711665961349
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,50.0,0.001,0.7129274281891234
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,50.0,0.00390625,0.7242390289449112
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,50.0,0.0078125,0.7515316851378233
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],ss_svm_rbf,50.0,0.01,0.7595711665961349
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,1.0,0.001,0.6185904841868431
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,1.0,0.00390625,0.6751609848484849
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,1.0,0.0078125,0.669701839609433
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,1.0,0.01,0.6664839888244144
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,10.0,0.001,0.6933983032741119
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,10.0,0.00390625,0.7496747967479674
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,10.0,0.0078125,0.6929296209107881
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,10.0,0.01,0.6741990625861592
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,50.0,0.001,0.7179894179894181
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,50.0,0.00390625,0.7562871828521435
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,50.0,0.0078125,0.6934365156945802
+B_rolling_update,5,holdout_latest_train_batch,"[1, 2, 3, 4]","[1, 2, 3]",[4],robust_svm_rbf,50.0,0.01,0.6865497076023392
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,1.0,0.001,0.8109979249198265
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,1.0,0.00390625,0.8140913276098045
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,1.0,0.0078125,0.8161442438416855
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,1.0,0.01,0.8088424321863871
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,10.0,0.001,0.824622211718986
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,10.0,0.00390625,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,10.0,0.0078125,0.8172134090748403
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,10.0,0.01,0.8129915355815899
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,50.0,0.001,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,50.0,0.00390625,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,50.0,0.0078125,0.8124679461266897
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],power_yeojohnson_svm,50.0,0.01,0.8082496735898532
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,1.0,0.001,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,1.0,0.00390625,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,1.0,0.0078125,0.8161442438416855
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,1.0,0.01,0.8088424321863871
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,10.0,0.001,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,10.0,0.00390625,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,10.0,0.0078125,0.8172134090748403
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,10.0,0.01,0.8098528234168353
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,50.0,0.001,0.8152089087026212
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,50.0,0.00390625,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,50.0,0.0078125,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],signed_log_abs_svm,50.0,0.01,0.8129915355815899
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,1.0,0.001,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,1.0,0.00390625,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,1.0,0.0078125,0.8161442438416855
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,1.0,0.01,0.8088424321863871
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,10.0,0.001,0.8234903498061392
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,10.0,0.00390625,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,10.0,0.0078125,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,10.0,0.01,0.8172134090748403
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,50.0,0.001,0.8234903498061392
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,50.0,0.00390625,0.8234903498061392
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,50.0,0.0078125,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],routear_combined_svm,50.0,0.01,0.8172134090748403
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,1.0,0.001,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,1.0,0.00390625,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,1.0,0.0078125,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,1.0,0.01,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,10.0,0.001,0.8277474931018238
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,10.0,0.00390625,0.8203437377563013
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,10.0,0.0078125,0.8093879359123263
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,10.0,0.01,0.8046027869261462
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,50.0,0.001,0.8277474931018238
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,50.0,0.00390625,0.8155613488166681
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,50.0,0.0078125,0.8046027869261462
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],quantile_normal_svm,50.0,0.01,0.8046027869261462
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,1.0,0.001,0.8140976268062275
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,1.0,0.00390625,0.8088424321863871
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,1.0,0.0078125,0.8088424321863871
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,1.0,0.01,0.7962070074485602
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,10.0,0.001,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,10.0,0.00390625,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,10.0,0.0078125,0.7992987802629735
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,10.0,0.01,0.7931247532751292
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,50.0,0.001,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,50.0,0.00390625,0.8152089087026212
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,50.0,0.0078125,0.8024017203734789
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ratio_median_svm,50.0,0.01,0.7962070074485602
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,1.0,0.001,0.8140976268062275
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,1.0,0.00390625,0.8088424321863871
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,1.0,0.0078125,0.8088424321863871
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,1.0,0.01,0.7962070074485602
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,10.0,0.001,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,10.0,0.00390625,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,10.0,0.0078125,0.7992987802629735
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,10.0,0.01,0.7931247532751292
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,50.0,0.001,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,50.0,0.00390625,0.8152089087026212
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,50.0,0.0078125,0.8024017203734789
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],ss_svm_rbf,50.0,0.01,0.7962070074485602
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,1.0,0.001,0.8140976268062275
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,1.0,0.00390625,0.8088424321863871
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,1.0,0.0078125,0.8088424321863871
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,1.0,0.01,0.8088424321863871
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,10.0,0.001,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,10.0,0.00390625,0.8069407805715235
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,10.0,0.0078125,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,10.0,0.01,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,50.0,0.001,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,50.0,0.00390625,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,50.0,0.0078125,0.8120180703426246
+B_rolling_update,6,holdout_latest_train_batch,"[1, 2, 3, 4, 5]","[1, 2, 3, 4]",[5],robust_svm_rbf,50.0,0.01,0.8072444091448081
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,1.0,0.001,0.6344213427432909
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,1.0,0.00390625,0.6213655823033498
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,1.0,0.0078125,0.6431170600038386
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,1.0,0.01,0.636442835872426
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,10.0,0.001,0.6418351101220732
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,10.0,0.00390625,0.6426927997798142
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,10.0,0.0078125,0.6331233902755204
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,10.0,0.01,0.6286032712064417
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,50.0,0.001,0.6330041183723828
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,50.0,0.00390625,0.6231381319460823
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,50.0,0.0078125,0.5844130692848374
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],power_yeojohnson_svm,50.0,0.01,0.5617226669989105
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,1.0,0.001,0.5946079334962063
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,1.0,0.00390625,0.6281704323012474
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,1.0,0.0078125,0.6310576224998338
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,1.0,0.01,0.6096304537873657
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,10.0,0.001,0.6406283475364002
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,10.0,0.00390625,0.6090949660771593
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,10.0,0.0078125,0.6004362066244874
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,10.0,0.01,0.6015990494724771
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,50.0,0.001,0.6312004200909099
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,50.0,0.00390625,0.6165848854120856
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,50.0,0.0078125,0.5454038650762416
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],signed_log_abs_svm,50.0,0.01,0.5335119631536208
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,1.0,0.001,0.598048626382654
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,1.0,0.00390625,0.6401773420399005
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,1.0,0.0078125,0.6385008125026206
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,1.0,0.01,0.6369634773550681
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,10.0,0.001,0.6398457348702112
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,10.0,0.00390625,0.6346347512997246
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,10.0,0.0078125,0.6454681423638011
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,10.0,0.01,0.6447717435467532
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,50.0,0.001,0.6214940273496853
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,50.0,0.00390625,0.6073536287654969
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,50.0,0.0078125,0.5435481748592755
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],routear_combined_svm,50.0,0.01,0.5382516528822548
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,1.0,0.001,0.6110478005657478
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,1.0,0.00390625,0.6106638846155378
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,1.0,0.0078125,0.632050511126859
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,1.0,0.01,0.6465703174531189
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,10.0,0.001,0.632667484169577
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,10.0,0.00390625,0.6098271418062651
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,10.0,0.0078125,0.6108547170082405
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,10.0,0.01,0.6036446394907754
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,50.0,0.001,0.6131821969113955
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,50.0,0.00390625,0.5927297682798127
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,50.0,0.0078125,0.5454610677210326
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],quantile_normal_svm,50.0,0.01,0.529164289538488
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,1.0,0.001,0.6360134458389773
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,1.0,0.00390625,0.6326945397399826
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,1.0,0.0078125,0.6315327834669174
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,1.0,0.01,0.6317740176659239
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,10.0,0.001,0.6380527680812812
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,10.0,0.00390625,0.6390482719176694
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,10.0,0.0078125,0.6333471984247794
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,10.0,0.01,0.6379675540790815
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,50.0,0.001,0.6405988777082807
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,50.0,0.00390625,0.6457150119566378
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,50.0,0.0078125,0.6319930052649311
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ratio_median_svm,50.0,0.01,0.593546687537779
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,1.0,0.001,0.6360134458389773
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,1.0,0.00390625,0.6326945397399826
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,1.0,0.0078125,0.6315327834669174
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,1.0,0.01,0.6317740176659239
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,10.0,0.001,0.6380527680812812
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,10.0,0.00390625,0.6390482719176694
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,10.0,0.0078125,0.6333471984247794
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,10.0,0.01,0.6379675540790815
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,50.0,0.001,0.6405988777082807
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,50.0,0.00390625,0.6457150119566378
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,50.0,0.0078125,0.6319930052649311
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],ss_svm_rbf,50.0,0.01,0.593546687537779
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,1.0,0.001,0.4866076119120339
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,1.0,0.00390625,0.5820699150208536
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,1.0,0.0078125,0.5736290884583105
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,1.0,0.01,0.5744477822706339
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,10.0,0.001,0.6474677388777128
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,10.0,0.00390625,0.6067425611160008
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,10.0,0.0078125,0.5903335424188235
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,10.0,0.01,0.5858772468279972
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,50.0,0.001,0.6376578277479436
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,50.0,0.00390625,0.584735451443477
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,50.0,0.0078125,0.5509365161897418
+B_rolling_update,7,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6]","[1, 2, 3, 4, 5]",[6],robust_svm_rbf,50.0,0.01,0.5165473349528825
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,1.0,0.001,0.7644370398412225
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,1.0,0.00390625,0.79445228886474
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,1.0,0.0078125,0.7997212022401549
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,1.0,0.01,0.7890659273416896
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,10.0,0.001,0.8296313685383433
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,10.0,0.00390625,0.8343755521338668
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,10.0,0.0078125,0.820595469239481
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,10.0,0.01,0.8013454403805967
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,50.0,0.001,0.8286936442118938
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,50.0,0.00390625,0.8388639494300468
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,50.0,0.0078125,0.822513550751427
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],power_yeojohnson_svm,50.0,0.01,0.8059585764342185
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,1.0,0.001,0.7221301435193345
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,1.0,0.00390625,0.7659924219009735
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,1.0,0.0078125,0.7956742324540594
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,1.0,0.01,0.7874617299412453
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,10.0,0.001,0.8099702187687358
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,10.0,0.00390625,0.7949599444532387
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,10.0,0.0078125,0.8060168808914302
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,10.0,0.01,0.8065700741072389
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,50.0,0.001,0.7913613499537832
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,50.0,0.00390625,0.8027264865917133
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,50.0,0.0078125,0.8016177148302064
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],signed_log_abs_svm,50.0,0.01,0.7964966433895646
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,1.0,0.001,0.7757404895317745
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,1.0,0.00390625,0.8003315105185407
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,1.0,0.0078125,0.7915935284918417
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,1.0,0.01,0.7850707430059704
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,10.0,0.001,0.8421865333674581
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,10.0,0.00390625,0.8430782649638652
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,10.0,0.0078125,0.8469938659768174
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,10.0,0.01,0.8439316507255974
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,50.0,0.001,0.8407994764337747
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,50.0,0.00390625,0.8367334762073749
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,50.0,0.0078125,0.8297324474584519
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],routear_combined_svm,50.0,0.01,0.8283247481077515
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,1.0,0.001,0.7609858159856513
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,1.0,0.00390625,0.7663365440591373
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,1.0,0.0078125,0.7608582492523995
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,1.0,0.01,0.7519383655458575
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,10.0,0.001,0.8512691081311453
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,10.0,0.00390625,0.8174492250418415
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,10.0,0.0078125,0.81171015970161
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,10.0,0.01,0.8013544766103294
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,50.0,0.001,0.8170209318172214
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,50.0,0.00390625,0.8123777692543729
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,50.0,0.0078125,0.8041613869894285
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],quantile_normal_svm,50.0,0.01,0.7971610956915928
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,1.0,0.001,0.783965486439318
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,1.0,0.00390625,0.8407085426556383
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,1.0,0.0078125,0.8588295937241011
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,1.0,0.01,0.8655492482857815
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,10.0,0.001,0.875649120551835
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,10.0,0.00390625,0.8679818323691758
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,10.0,0.0078125,0.8779730668371561
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,10.0,0.01,0.8754863940424347
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,50.0,0.001,0.8635594999753682
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,50.0,0.00390625,0.8723819688108599
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,50.0,0.0078125,0.8746897776597936
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ratio_median_svm,50.0,0.01,0.8757119999861324
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,1.0,0.001,0.783965486439318
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,1.0,0.00390625,0.8407085426556383
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,1.0,0.0078125,0.8588295937241011
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,1.0,0.01,0.8655492482857815
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,10.0,0.001,0.875649120551835
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,10.0,0.00390625,0.8679818323691758
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,10.0,0.0078125,0.8779730668371561
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,10.0,0.01,0.8754863940424347
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,50.0,0.001,0.8635594999753682
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,50.0,0.00390625,0.8723819688108599
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,50.0,0.0078125,0.8746897776597936
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],ss_svm_rbf,50.0,0.01,0.8757119999861324
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,1.0,0.001,0.7110689089665757
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,1.0,0.00390625,0.7513342718434117
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,1.0,0.0078125,0.7655614370979665
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,1.0,0.01,0.7802740024096684
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,10.0,0.001,0.7830507035582075
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,10.0,0.00390625,0.8071775860393006
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,10.0,0.0078125,0.8106894250037254
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,10.0,0.01,0.8125135019435744
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,50.0,0.001,0.7875094089157378
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,50.0,0.00390625,0.8152529152703867
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,50.0,0.0078125,0.824174724057321
+B_rolling_update,8,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7]","[1, 2, 3, 4, 5, 6]",[7],robust_svm_rbf,50.0,0.01,0.8241167829842132
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,1.0,0.001,0.7799371635162807
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,1.0,0.00390625,0.9373449584688075
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,1.0,0.0078125,0.9477312987972887
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,1.0,0.01,0.952833590266566
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,10.0,0.001,0.9424378886335373
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,10.0,0.00390625,0.9390674191407132
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,10.0,0.0078125,0.9516447241760316
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,10.0,0.01,0.9568495536077452
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,50.0,0.001,0.9424378886335373
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,50.0,0.00390625,0.9283727286639404
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,50.0,0.0078125,0.943755485941331
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],power_yeojohnson_svm,50.0,0.01,0.9479909728247545
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,1.0,0.001,0.5777311225419521
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,1.0,0.00390625,0.7399050224672464
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,1.0,0.0078125,0.8532417803187244
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,1.0,0.01,0.8624487933092494
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,10.0,0.001,0.8592538592467732
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,10.0,0.00390625,0.8869321448510404
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,10.0,0.0078125,0.8948382471381787
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,10.0,0.01,0.9024913783207218
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,50.0,0.001,0.8825240066701167
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,50.0,0.00390625,0.8948382471381787
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,50.0,0.0078125,0.8932711048032452
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],signed_log_abs_svm,50.0,0.01,0.8932711048032452
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,1.0,0.001,0.6986023493570327
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,1.0,0.00390625,0.8227399599863369
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,1.0,0.0078125,0.7945877066067467
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,1.0,0.01,0.780001408604473
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,10.0,0.001,0.8729770660976901
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,10.0,0.00390625,0.847896798074734
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,10.0,0.0078125,0.8103902489184863
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,10.0,0.01,0.7842962615864891
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,50.0,0.001,0.8745170748821437
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,50.0,0.00390625,0.7677176429309535
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,50.0,0.0078125,0.7287701196265345
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],routear_combined_svm,50.0,0.01,0.7229348895139397
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,1.0,0.001,0.7833335371756839
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,1.0,0.00390625,0.9373449584688075
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,1.0,0.0078125,0.9425337099862449
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,1.0,0.01,0.9440425435188228
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,10.0,0.001,0.9422945307476419
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,10.0,0.00390625,0.9390674191407132
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,10.0,0.0078125,0.930415117449086
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,10.0,0.01,0.9295700623515075
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,50.0,0.001,0.9422993870024983
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,50.0,0.00390625,0.9272731092043305
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,50.0,0.0078125,0.9177517472959814
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],quantile_normal_svm,50.0,0.01,0.9203647234057515
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,1.0,0.001,0.7449232252165512
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,1.0,0.00390625,0.8134255249106416
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,1.0,0.0078125,0.8782163241077908
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,1.0,0.01,0.8977797842339106
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,10.0,0.001,0.9036385982467442
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,10.0,0.00390625,0.9062183421799924
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,10.0,0.0078125,0.8998887521886839
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,10.0,0.01,0.8998887521886839
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,50.0,0.001,0.890019012397052
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,50.0,0.00390625,0.9033219987599784
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,50.0,0.0078125,0.9024913783207217
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ratio_median_svm,50.0,0.01,0.8986073346245727
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,1.0,0.001,0.7449232252165512
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,1.0,0.00390625,0.8134255249106416
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,1.0,0.0078125,0.8782163241077908
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,1.0,0.01,0.8977797842339106
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,10.0,0.001,0.9036385982467442
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,10.0,0.00390625,0.9062183421799924
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,10.0,0.0078125,0.8998887521886839
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,10.0,0.01,0.8998887521886839
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,50.0,0.001,0.890019012397052
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,50.0,0.00390625,0.9033219987599784
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,50.0,0.0078125,0.9024913783207217
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],ss_svm_rbf,50.0,0.01,0.8986073346245727
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,1.0,0.001,0.5643073413713
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,1.0,0.00390625,0.7300194820884466
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,1.0,0.0078125,0.8135408891370016
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,1.0,0.01,0.8612849639887452
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,10.0,0.001,0.8485547215667898
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,10.0,0.00390625,0.8978058464347947
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,10.0,0.0078125,0.8894508211221416
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,10.0,0.01,0.8947654033153348
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,50.0,0.001,0.8818648400413488
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,50.0,0.00390625,0.8865775127745031
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,50.0,0.0078125,0.8807912741497
+B_rolling_update,9,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7]",[8],robust_svm_rbf,50.0,0.01,0.876907230453551
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,1.0,0.001,0.7488823698372903
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,1.0,0.00390625,0.7455636363872603
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,1.0,0.0078125,0.7490485398549914
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,1.0,0.01,0.748786333488134
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,10.0,0.001,0.7453238118689978
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,10.0,0.00390625,0.7501451961692925
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,10.0,0.0078125,0.7526144210406308
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,10.0,0.01,0.86473990094498
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,50.0,0.001,0.7463603678119807
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,50.0,0.00390625,0.8184007003839833
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,50.0,0.0078125,0.9464202400063216
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],power_yeojohnson_svm,50.0,0.01,0.9451681253228156
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,1.0,0.001,0.6449185934511408
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,1.0,0.00390625,0.7470338033308139
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,1.0,0.0078125,0.7436867862806569
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,1.0,0.01,0.745483824878108
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,10.0,0.001,0.7384275037395431
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,10.0,0.00390625,0.742433973332425
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,10.0,0.0078125,0.7485498653169184
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,10.0,0.01,0.7500738118495488
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,50.0,0.001,0.7305544884767331
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,50.0,0.00390625,0.7474999877827662
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,50.0,0.0078125,0.7481429316227867
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],signed_log_abs_svm,50.0,0.01,0.7475796585472309
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,1.0,0.001,0.7203106473393589
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,1.0,0.00390625,0.7491759695288832
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,1.0,0.0078125,0.745992827827322
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,1.0,0.01,0.7437360193609722
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,10.0,0.001,0.7506012270131471
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,10.0,0.00390625,0.7475675023800337
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,10.0,0.0078125,0.745992827827322
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,10.0,0.01,0.7434577267282751
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,50.0,0.001,0.7506012270131471
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,50.0,0.00390625,0.747371641214424
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,50.0,0.0078125,0.745992827827322
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],routear_combined_svm,50.0,0.01,0.7434577267282751
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,1.0,0.001,0.7447747268501751
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,1.0,0.00390625,0.7426732210190856
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,1.0,0.0078125,0.7450778190063905
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,1.0,0.01,0.7449790948256951
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,10.0,0.001,0.7469560723514211
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,10.0,0.00390625,0.9290158664869649
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,10.0,0.0078125,0.9493099798138344
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,10.0,0.01,0.9299304236536404
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,50.0,0.001,0.8671767534243876
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,50.0,0.00390625,0.9656937227288794
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,50.0,0.0078125,0.9660508382550131
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],quantile_normal_svm,50.0,0.01,0.957897219404478
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,1.0,0.001,0.745776798889703
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,1.0,0.00390625,0.7552248728573675
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,1.0,0.0078125,0.7502761806869082
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,1.0,0.01,0.7502761806869082
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,10.0,0.001,0.747851277263042
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,10.0,0.00390625,0.7416317191332927
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,10.0,0.0078125,0.7509065506232454
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,10.0,0.01,0.7537965804755542
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,50.0,0.001,0.7342774445414983
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,50.0,0.00390625,0.7523506783315903
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,50.0,0.0078125,0.7525850137124089
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ratio_median_svm,50.0,0.01,0.7510543985903176
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,1.0,0.001,0.745776798889703
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,1.0,0.00390625,0.7552248728573675
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,1.0,0.0078125,0.7502761806869082
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,1.0,0.01,0.7502761806869082
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,10.0,0.001,0.747851277263042
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,10.0,0.00390625,0.7416317191332927
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,10.0,0.0078125,0.7509065506232454
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,10.0,0.01,0.7537965804755542
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,50.0,0.001,0.7342774445414983
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,50.0,0.00390625,0.7523506783315903
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,50.0,0.0078125,0.7525850137124089
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],ss_svm_rbf,50.0,0.01,0.7510543985903176
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,1.0,0.001,0.54930785458075
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,1.0,0.00390625,0.7440787996591746
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,1.0,0.0078125,0.7459860897764123
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,1.0,0.01,0.7435691897138033
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,10.0,0.001,0.7440620040365372
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,10.0,0.00390625,0.741030785005484
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,10.0,0.0078125,0.7451576132956843
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,10.0,0.01,0.7511770879179811
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,50.0,0.001,0.7295208122672235
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,50.0,0.00390625,0.7490305776226701
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,50.0,0.0078125,0.7542657304567784
+B_rolling_update,10,holdout_latest_train_batch,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","[1, 2, 3, 4, 5, 6, 7, 8]",[9],robust_svm_rbf,50.0,0.01,0.7557981702701038
