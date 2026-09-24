@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Run Protocol-B consistent-policy baseline suite on UCI drift data.
 
-This script reproduces submission-facing experiment tables from raw batch files.
+This script computes Protocol-B baseline metrics from raw batch files.
 It focuses on experiment execution and excludes any figure-generation workflow.
 """
 
@@ -165,7 +165,7 @@ def run_protocol_b_suite(
     per_target_df = pd.DataFrame(per_target_rows)
     tuning_df = pd.DataFrame(tuning_rows)
 
-    # Summary table aligned with submission Table 1 fields.
+    # Summary table of target-period performance metrics.
     summary_rows: list[dict[str, object]] = []
     baseline = per_target_df[per_target_df["model_name"] == "ss_svm_rbf"].set_index("target_batch")
 
@@ -200,13 +200,13 @@ def run_protocol_b_suite(
     out_per_target = output_dir / "protocol_b_baseline_per_target_verification.csv"
     out_tuning = output_dir / "protocol_b_baseline_tuning_log_verification.csv"
     out_summary = output_dir / "protocol_b_baseline_summary_verification.csv"
-    out_table1 = output_dir / "table1_submission_ready_verification.csv"
+    out_table1 = output_dir / "table1_results_verification.csv"
 
     per_target_df.to_csv(out_per_target, index=False, encoding="utf-8")
     tuning_df.to_csv(out_tuning, index=False, encoding="utf-8")
     summary_df.to_csv(out_summary, index=False, encoding="utf-8")
 
-    # Friendly projection for direct manuscript table updates.
+    # Stable column order for exported summary tables.
     table1_df = summary_df.copy()
     table1_df["wins_losses_vs_ss"] = table1_df.apply(
         lambda r: "baseline"
